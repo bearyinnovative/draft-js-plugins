@@ -1,5 +1,5 @@
 {
-  "name": "draft-js-plugins-editor",
+  "name": "@beary/draft-js-plugins-editor",
   "version": "2.0.3",
   "description": "Editor for DraftJS Plugins",
   "author": {
