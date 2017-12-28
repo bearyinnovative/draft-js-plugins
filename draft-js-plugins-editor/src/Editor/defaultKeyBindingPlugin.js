@@ -1,4 +1,4 @@
-import { getDefaultKeyBinding } from 'draft-js';
+import { getDefaultKeyBinding } from '@beary/draft-js';
 
 /**
  * Handle default key bindings.
