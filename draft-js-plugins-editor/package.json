@@ -1,6 +1,6 @@
 {
   "name": "@beary/draft-js-plugins-editor",
-  "version": "2.0.4-1",
+  "version": "2.0.4-3",
   "description": "Editor for DraftJS Plugins",
   "author": {
     "name": "Nik Graf",
@@ -35,7 +35,7 @@
     "union-class-names": "^1.0.0"
   },
   "peerDependencies": {
-    "@beary/draft-js": "latest",
+    "draft-js": "latest",
     "react": "^15.5.0 || ^16.0.0-rc",
     "react-dom": "^15.5.0 || ^16.0.0-rc"
   }

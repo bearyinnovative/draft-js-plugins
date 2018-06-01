@@ -5,7 +5,7 @@
 import {
   ContentState,
   EditorState,
-} from '@beary/draft-js';
+} from 'draft-js';
 
 export default (text) => EditorState.createWithContent(
   ContentState.createFromText(text)

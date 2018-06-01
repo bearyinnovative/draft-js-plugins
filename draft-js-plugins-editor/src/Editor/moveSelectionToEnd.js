@@ -1,7 +1,7 @@
 import {
   EditorState,
   SelectionState,
-} from '@beary/draft-js';
+} from 'draft-js';
 
 /**
  * Returns a new EditorState where the Selection is at the end.
