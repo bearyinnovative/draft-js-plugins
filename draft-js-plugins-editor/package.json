@@ -26,6 +26,9 @@
     "build": "BABEL_ENV=production ../node_modules/.bin/babel --out-dir='lib' --ignore='__tests__/*' src",
     "prepublish": "npm run build"
   },
+  "publishConfig": {
+    "registry": "http://120.25.239.87:8081/artifactory/api/npm/npm-local"
+  },
   "license": "MIT",
   "dependencies": {
     "decorate-component-with-props": "^1.0.2",
