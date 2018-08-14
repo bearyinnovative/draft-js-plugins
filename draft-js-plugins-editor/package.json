@@ -27,7 +27,7 @@
     "prepublish": "npm run build"
   },
   "publishConfig": {
-    "registry": "http://120.25.239.87:8081/artifactory/api/npm/npm-local"
+    "registry": "http://116.85.45.93:4873"
   },
   "license": "MIT",
   "dependencies": {

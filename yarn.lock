@@ -4,7 +4,7 @@
 
 "@beary/draft-js@latest":
   version "0.10.7"
-  resolved "http://120.25.239.87:8081/artifactory/api/npm/npm/@beary/draft-js/-/@beary/draft-js-0.10.7.tgz#696203571a0060872991340631f68dcd67412d97"
+  resolved "http://116.85.45.93:4873/@beary%2fdraft-js/-/draft-js-0.10.7.tgz#b85d3e29d54c5d91243cdb01d3c6e37d34573679"
   dependencies:
     fbjs "^0.8.15"
     immutable "~3.7.4"
